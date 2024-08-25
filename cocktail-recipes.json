@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Bay Breeze",
+        "image": "images/baybreeze.jpg",
+        "summary": "The Bay Breeze is a delightful cocktail that offers a refreshing blend of sweet and tart flavors. This easy-to-make drink combines vodka with cranberry and pineapple juices, served over ice and often garnished with a lime wheel. It's a variation of the Sea Breeze and Cape Codder cocktails, perfect for sipping on a warm day or at a summer gathering. Enjoy the tropical twist of this classic drink that continues to be a favorite for its simplicity and delicious taste.",
+        "ingredients": [
+            "50ml Vodka",
+            " 75ml Pineapple Juice",
+            " 50ml Cranberry Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Dark and Stormy",
+        "image": "images/darkandstormy.jpg",
+        "summary": "The Dark and Stormy is a classic cocktail that combines the rich sweetness of dark rum with the spicy kick of ginger beer, often garnished with a lime wedge. Originating from Bermuda, it's traditionally made with Gosling's Black Seal Rum, which is said to be the only rum that can be used if one wants to enjoy the authentic taste of this drink. This cocktail is not only refreshing but also carries a hint of spice that makes it a perfect choice for any occasion. Whether you're enjoying a summer evening or warming up during the winter, the Dark and Stormy offers a delightful balance of flavors that can be enjoyed year-round.",
+        "ingredients": [
+            "25ml Golden Rum",
+            " 25ml Dark Rum",
+            " 12.5ml Lime Juice",
+            " 10ml Sugar Syrup",
+            " 75ml Ginger Beer"
+        ],
+        "instructions": "Mix drink in glass excluding Ginger Beer and Dark Rum, once mixed add Ginger Beer and top with Dark Rum"
+    },
+    {
+        "name": "Espresso Martini",
+        "image": "images/esspreso.jpg",
+        "summary": "The Espresso Martini is a cold, coffee-flavored cocktail made with a blend of vodka, coffee liqueur, and freshly brewed espresso. Created by the renowned bartender Dick Bradsell in London, it's known for its energizing effect, combining the rich, robust flavor of coffee with the smoothness of vodka. The drink is typically garnished with a few coffee beans and is celebrated for its creamy foam top, which is achieved by a vigorous shake during preparation. It's a modern classic that offers a sophisticated twist on coffee and spirits.",
+        "ingredients": [
+            "40ml Vodka",
+            " 40ml Coffee Liqueur",
+            " 40ml Esspreso",
+            " 10ml Sugar Syrup"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "French Martini",
+        "image": "images/frenchm.jpg",
+        "summary": "The French Martini is a chic and sophisticated cocktail that combines vodka, raspberry liqueur, and pineapple juice. Originating from New York City in the late 1980s, it's known for its sweet and tart flavor profile with a velvety texture. To make it, simply shake the ingredients with ice and strain into a martini glass. This drink is a perfect blend of fruity and boozy, making it a timeless classic for cocktail enthusiasts.",
+        "ingredients": [
+            "50ml Vodka",
+            " 15ml Chambord",
+            " 50ml Pinapple Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Hawiam Breeze",
+        "image": "images/hawian.jpg",
+        "summary": "The Hawaiian Breeze cocktail is a refreshing tropical drink that captures the essence of island life. It typically blends the sweet flavors of pineapple and coconut with the smoothness of vodka, creating a delightful mix that's both invigorating and relaxing. Garnished with a slice of pineapple or a maraschino cherry, this cocktail is perfect for those who enjoy a taste of paradise in their glass. Whether served at a beach party or as a cool summer evening treat, the Hawaiian Breeze is a beloved choice for many.",
+        "ingredients": [
+            "50ml Vodka",
+            " 75ml Cranberry Juice",
+            " 50ml Pinapple Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Mojito",
+        "image": "images/mojito.jpg",
+        "summary": "The Mojito is a classic Cuban cocktail that offers a refreshing blend of sweetness, citrus, and mint flavors. Traditionally, it's made with white rum, sugar (often cane sugar), lime juice, soda water, and mint. Its combination of invigorating ingredients makes it a popular choice for a summer drink, enjoyed for its ability to cool down and refresh its drinkers. The Mojito's balance of flavors has secured its place as a staple in the cocktail world, embodying the vibrant spirit of its Caribbean origins.",
+        "ingredients": [
+            "50ml Light Rum",
+            " 10ml Sugar Syrup",
+            " 15ml Lime Juice",
+            " 50ml Soda Water",
+            " 10 Mint Leaves"
+        ],
+        "instructions": "Muddle mint leaves in glass along with all ingredients except soda water, add ice and top up with soda water"
+    },
+    {
+        "name": "Old Fasioned",
+        "image": "images/old.jpg",
+        "summary": "The Old Fashioned is a revered classic cocktail that dates back to the early 19th century. It's a simple yet sophisticated drink, traditionally made with a blend of whiskey, bitters, sugar, and a splash of water. This cocktail is typically garnished with an orange slice or zest and a cocktail cherry, and served over ice in a rocks glass. Its enduring popularity is a testament to its balanced mix of sweetness, bitters, and the rich flavors of the whiskey. Whether enjoyed in a cozy bar or at home, the Old Fashioned offers a timeless taste of cocktail history.",
+        "ingredients": [
+            "50ml Bourbon",
+            " 10ml Sugar Syrup",
+            " 2 Dashes Angustoru Bitters"
+        ],
+        "instructions": "Stir ingredients in glass, garnis with orange peel"
+    },
+    {
+        "name": "Porn Star Martini",
+        "image": "images/pornstar.jpg",
+        "summary": "The Porn Star Martini, also known as a passion fruit martini, is a vibrant and exotic cocktail. It was created by London bartender Douglas Ankrah in the early 2000s and features a blend of vanilla vodka, passion fruit liqueur, vanilla syrup, lime juice, and pineapple juice, often accompanied by a shot of prosecco. This cocktail is known for its sweet and tangy flavor profile with a velvety texture, making it a popular choice in the UK and beyond. The drink is typically garnished with half a passion fruit and served with a side shot of prosecco to enhance the tasting experience.",
+        "ingredients": [
+            "30ml Vodka",
+            " 20ml Passoa",
+            " 15ml Sugar Syrup",
+            " 5ml Lime Juice",
+            " 40ml Passion Fruit Pure",
+            " 75ml Passion Fruit Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Sex on the Beach",
+        "image": "images/sexonthebeach.jpg",
+        "summary": "The Sex on the Beach cocktail is a vibrant and fruity drink that encapsulates the spirit of summer and carefree beach days. It's a blend of vodka, peach schnapps, orange juice, and cranberry juice, often garnished with an orange slice and a cherry. This cocktail gained popularity in the 1980s and is known for its sweet, refreshing taste and the ease of mixing, making it a perennial favorite at beachside bars and summer gatherings. Its creation is attributed to a Florida bartender who aimed to sell more peach schnapps, resulting in this iconic and beloved beverage.",
+        "ingredients": [
+            "25ml Peach Schnapes",
+            " 50ml Vodka",
+            " 35ml Orange Juice",
+            " 35ml Pineapple Juice",
+            " 50ml Cranberry Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Woo Woo",
+        "image": "images/woowoo.jpg",
+        "summary": "The Woo Woo is a vibrant cocktail that became popular in the 1980s. It's a fruity mix that combines vodka, peach schnapps, and cranberry juice, often garnished with a lime wedge. Known for its sweet and tart flavor profile, the Woo Woo is typically served in a highball glass and can also be enjoyed as a fun, refreshing shot. This cocktail's simplicity and delightful taste make it a favorite for summer parties and casual gatherings.",
+        "ingredients": [
+            "35ml Vodka",
+            " 25ml Peach Schapes",
+            " 5ml Lime Juice",
+            " 75ml Cranberry Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Planters Punch",
+        "image": "images/planterspunch.jpg",
+        "summary": "The Planters Punch is a classic cocktail with a rich history, believed to have originated in Jamaica. It's a refreshing mix of dark rum, citrus, sugar, and spice, often garnished with a variety of fruits. The traditional recipe follows a simple rhyme: \"one of sour, two of sweet, three of strong, four of weak,\" which balances the sourness of lime juice, the sweetness of syrup, the strength of rum, and the weakness of water or ice. Modern variations may adjust these ratios, but the essence of the drink remains a vibrant celebration of Caribbean flavors.",
+        "ingredients": [
+            "50ml Golden Rum",
+            " 50ml Pineapple Juice",
+            " 50ml Orange Juice",
+            " 20ml Lime Juice"
+        ],
+        "instructions": "Shake all ingredients over ice, strain to tall glass, add ice and garnish"
+    },
+    {
+        "name": "Fairway fizz",
+        "image": "images/pineapplefizz.jpg",
+        "summary": "The Fairway Fizz is a refreshing cocktail perfect for golf enthusiasts or those who enjoy a light, invigorating drink. It typically combines tequila or rum, simple syrup, lime juice, and club soda, garnished with mint leaves and a lime wheel for a touch of elegance. The drink is known for its balance of sweetness and citrus, making it an ideal choice for a sunny day on the course or a relaxing afternoon at home. For a twist, some variations include pineapple juice or sparkling wine, adding a tropical flair or a fizzy lift to this delightful beverage.",
+        "ingredients": [
+            "50ml Golden Rum",
+            " 100ml Pineapple Juice",
+            " 50ml Soda Water"
+        ],
+        "instructions": "Shake Rum and pineapple juice, strain over ice and add soda water"
+    }
+]
